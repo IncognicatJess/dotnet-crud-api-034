@@ -1,6 +1,7 @@
-# 🧪 ASP.NET Core Web API - Budget App
+# 🧪 ASP.NET Core Web API - Budget_Transaction App
 
 Project latihan membuat Web API menggunakan ASP.NET Core (.NET 9).
+Percobaan dan latihan .NET API dengan swagger. Jaisyu Nur M - 0920240034 -TRPL - 2A
 
 ## 🚀 Fitur
 - GET /api/budget
